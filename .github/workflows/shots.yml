@@ -2,7 +2,7 @@ name: Take screenshots
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/2 * * * *"
 
 permissions:
   contents: write
